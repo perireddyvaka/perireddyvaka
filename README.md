@@ -113,8 +113,6 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/perireddyvaka/perireddyvaka/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
