@@ -1,5 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7F00FF,100:0F2027&height=120&section=header"/>
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Perireddy Vaka</h1>
 
 <h3 align="center">
@@ -131,6 +137,24 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 <p align="center">
 
 <img src="/github-metrics.svg" alt="Metrics"/>
+
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=perireddyvaka&bg_color=0d1117&color=00F5FF&line=7F00FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&color=00F5FF&center=true&vCenter=true&width=900&lines=Engineering+Scalable+AI+Systems.;Researching+Future+Architectures.;Building+High-Performance+Backend+Platforms."/>
 
 </p>
 
