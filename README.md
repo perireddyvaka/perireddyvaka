@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7F00FF,100:0F2027&height=120&section=header"/>
 <h1 align="center">Hi 👋, I'm Perireddy Vaka</h1>
 
 <h3 align="center">
@@ -10,7 +11,15 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Research+Engineer;FastAPI+Backend+Developer;Machine+Learning+Engineer;Generative+AI+%7C+RAG+%7C+LLMs;Researcher+at+ctOP-IIITH"/>
 </p>
 
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&color=00F5FF&center=true&vCenter=true&width=900&lines=Code.+Research.+Innovate.;Building+Scalable+AI+Systems.;FastAPI+Architect+%7C+Research+Engineer.;Distributed+Systems+%7C+Generative+AI"/>
+
+</p>
+
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
 # 👨‍💻 About Me
 
@@ -26,7 +35,9 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 ---
 
-# 🚀 Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
+
+# ⚡ Tech Arsenal
 
 <p align="center">
 
@@ -36,7 +47,8 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 ---
 
-# 📊 GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -48,6 +60,8 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -57,6 +71,8 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 </p>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
 # 🏆 GitHub Trophies
 
@@ -68,7 +84,9 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 ---
 
-# 📚 Research Interests
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
+
+# 📚 Research Domains
 
 - AI Systems
 - Smart City Platforms
@@ -79,7 +97,9 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 ---
 
-# 🌐 Connect With Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
+
+# 🌐 Digital Presence
 
 <p align="left">
 
@@ -103,6 +123,8 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
+
 # 🚀 Contribution Visualizations
 
 <p align="center">
@@ -120,7 +142,8 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 </p>
 
 ---
----
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
 # 📊 Advanced GitHub Metrics
 
@@ -129,3 +152,5 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 <img src="/github-metrics.svg" alt="Metrics"/>
 
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:7F00FF,100:00F5FF&height=120&section=footer"/>
