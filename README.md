@@ -17,8 +17,6 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 </p>
 
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
 # 👨‍💻 About Me
@@ -33,8 +31,6 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
   - AI Infrastructure
   - OM2M Systems
 
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
 # ⚡ Tech Arsenal
@@ -44,8 +40,6 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,postgres,mongodb,redis,linux,git,github,aws,gcp,tensorflow,pytorch,opencv,react,nodejs"/>
 
 </p>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 # 📊 GitHub Analytics
@@ -58,8 +52,6 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 </p>
 
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
 # 🔥 GitHub Streak
@@ -69,8 +61,6 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=perireddyvaka&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
@@ -82,8 +72,6 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 </p>
 
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
 # 📚 Research Domains
@@ -94,8 +82,6 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 - PostgreSQL Optimization
 - OM2M Middleware
 - Distributed Backend Systems
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
@@ -113,7 +99,6 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 </p>
 
----
 
 <p align="center">
 
@@ -121,7 +106,6 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 </p>
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
@@ -133,15 +117,11 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/perireddyvaka/perireddyvaka/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </p>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
