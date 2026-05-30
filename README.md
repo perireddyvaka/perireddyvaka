@@ -100,3 +100,9 @@ AI Research Engineer | Backend Systems Engineer | FastAPI Developer
 <img src="https://komarev.com/ghpvc/?username=perireddyvaka&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
+
+---
+
+# 🎮 3D Contribution Graph
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
