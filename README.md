@@ -144,13 +144,6 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7F00FF&height=2"/>
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=perireddyvaka&bg_color=0d1117&color=00F5FF&line=7F00FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
