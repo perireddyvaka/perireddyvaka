@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Perireddy Vaka</h1>
 
 <h3 align="center">
-AI Research Engineer | Backend Systems Engineer | FastAPI Developer
+Research Engineer | Backend Systems Engineer | FastAPI Developer
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Perireddy%20Vaka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Engineer%20|%20ctOP-IIITH&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Perireddy%20Vaka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Research%20Engineer%20|%20ctOP-IIITH&descAlignY=55&descAlign=50"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Research+Engineer;FastAPI+Backend+Developer;Machine+Learning+Engineer;Generative+AI+%7C+RAG+%7C+LLMs;Researcher+at+ctOP-IIITH"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Research+Engineer;FastAPI+Backend+Developer;Machine+Learning+Engineer;Generative+AI+%7C+RAG+%7C+LLMs;Researcher+at+ctOP-IIITH"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🔭 Working on AI & Smart City Research
+- 🔭 Working on System Designing & Smart City Research
 - 🌱 Learning LLMs, RAG, Agentic AI
 - 🚀 Building scalable FastAPI backend systems
 - 📚 Interested in:
@@ -103,6 +103,10 @@ AI Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 ---
 
-# 🎮 3D Contribution Graph
+# 🚀 Contribution Visualizations
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</p>
