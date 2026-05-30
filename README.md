@@ -110,3 +110,13 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/perireddyvaka/perireddyvaka/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
