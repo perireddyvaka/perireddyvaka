@@ -7,9 +7,9 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Perireddy%20Vaka&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Research%20Engineer%20|%20ctOP-IIITH&descAlignY=55&descAlign=50"/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Research+Engineer;FastAPI+Backend+Developer;Machine+Learning+Engineer;Generative+AI+%7C+RAG+%7C+LLMs;Researcher+at+ctOP-IIITH"/>
-</p>
+</p> -->
 
 <p align="center">
 
