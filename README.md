@@ -120,3 +120,12 @@ Research Engineer | Backend Systems Engineer | FastAPI Developer
 </p>
 
 ---
+---
+
+# 📊 Advanced GitHub Metrics
+
+<p align="center">
+
+<img src="/github-metrics.svg" alt="Metrics"/>
+
+</p>
